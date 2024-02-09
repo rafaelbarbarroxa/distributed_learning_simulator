@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="30df9960b8b1da063ae5b6c8a19a82d3d90cd616166601f4" />
+          <option name="urlString" value="http://localhost:8888/tree" />
+          <authParams2>
+            <map>
+              <entry key="token" value="30df9960b8b1da063ae5b6c8a19a82d3d90cd616166601f4" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="D:/MtGRecommender/.idea/MtGRecommender.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+pip install git+https://github.com/cyyever/torch_text.git@main#egg=cyy_torch_text
+pip install git+https://github.com/cyyever/torch_vision.git@main#egg=cyy_torch_vision
+pip install git+https://github.com/cyyever/torch_graph.git@main#egg=cyy_torch_graph
+pip install git+https://github.com/cyyever/torch_algorithm.git@main#egg=cyy_torch_algorithm
+pip install git+https://github.com/cyyever/naive_python_lib.git@main#egg=cyy_naive_lib
+
+pip install git+ssh://git@github.com/cyyever/torch_toolbox.git@main#egg=cyy_torch_toolbox
+pip install git+https://github.com/cyyever/torch_toolbox.git@main#egg=cyy_torch_toolbox
+pip install git+https://git@github.com/cyyever/torch_toolbox.git@main#egg=cyy_torch_toolbox
+
+https://github.com/cyyever/distributed_learning_simulator/issues/4
+
+
+
+pip install git+https://github.com/cyyever/torch_text.git@main#egg=cyy_torch_text git+https://github.com/cyyever/torch_vision.git@main#egg=cyy_torch_vision git+https://github.com/cyyever/torch_graph.git@main#egg=cyy_torch_graph git+https://github.com/cyyever/torch_algorithm.git@main#egg=cyy_torch_algorithm git+https://github.com/cyyever/naive_python_lib.git@main#egg=cyy_naive_lib
+
+
+git+https://github.com/cyyever/torch_text.git@main#egg=cyy_torch_text
+git+https://github.com/cyyever/torch_vision.git@main#egg=cyy_torch_vision
+git+https://github.com/cyyever/torch_graph.git@main#egg=cyy_torch_graph
+git+https://github.com/cyyever/torch_algorithm.git@main#egg=cyy_torch_algorithm
+git+https://github.com/cyyever/naive_python_lib.git@main#egg=cyy_naive_lib
+git+https://github.com/cyyever/torch_toolbox.git@main#egg=cyy_torch_toolbox
