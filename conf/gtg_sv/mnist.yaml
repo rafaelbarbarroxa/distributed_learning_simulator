@@ -3,9 +3,9 @@ dataset_name: MNIST
 model_name: LeNet5
 distributed_algorithm: GTG_shapley_value
 optimizer_name: SGD
-worker_number: 30
+worker_number: 50
 batch_size: 64
-round: 1
+round: 2
 learning_rate_scheduler_name: CosineAnnealingLR
 epoch: 2
 learning_rate: 0.01
